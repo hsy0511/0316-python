@@ -9,9 +9,9 @@ b = 2
 c = add(a,b) 
 print(c)
 ```
+def는 함수를 사용할 때 쓰는 예약어, add는 함수명, (a, b)는 매개변수이고, return은 함수에서 실행되는 결과 값을 돌려주는 명령어.
 ### 결과 값
 ![image](https://user-images.githubusercontent.com/104752580/225482261-21e0cf21-1218-4e5c-8cdc-1ab86efe9b9b.png)
-def는 함수를 사용할 때 쓰는 예약어, add는 함수명, (a, b)는 매개변수이고, return은 함수에서 실행되는 결과 값을 돌려주는 명령어.
 ## 매개변수와 인수
 ```python
 def add(a, b):  # a, b는 매개변수
